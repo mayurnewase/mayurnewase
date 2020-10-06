@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [BentoML](https://github.com/bentoml/BentoML) - an open-source framework for high-performance ML model serving 🍱
+- 🔭 I’m currently contributing to awesome projects which makes our life easier
 - 🌱 I’m currently learning drums
 - 👯 I’m looking to collaborate on hobby projects
 - 🤔 I’m looking for help with making products using pretrained ml models
