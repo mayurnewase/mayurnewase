@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently contributing to bentoml.
+- 🔭 I’m currently contributing to open source projects which helps model deployment easier.
 - 👯 My goal is to contribute more to open source projects.
 - 💬 Ask me about machine learning model infrastructure and deployments.
 - 🌱 I’m currently learning drums
