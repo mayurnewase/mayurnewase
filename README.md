@@ -53,7 +53,7 @@
 [sql]: https://www.mysql.com/
 [react]: https://reactjs.org/
 [Wipadika]: https://wipadika.com/
-[BentoML]: https://github.com/bentoml/BentoML
+[Apache SuperSet]: https://github.com/apache/incubator-superset
 [MuTract]: https://www.mutract.com/
 [linkedin]: https://www.linkedin.com/in/mayur-newase
 [twitter]: https://twitter.com/MayurNewase
