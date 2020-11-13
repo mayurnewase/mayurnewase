@@ -13,7 +13,7 @@
 <br />
 
 ### Currently working on:
-[<img align="left" alt="bentoml" title="BentoML" width="100px" src="https://raw.githubusercontent.com/bentoml/BentoML/master/docs/source/_static/img/bentoml-readme-header.jpeg" />][BentoML]
+[<img align="left" alt="superset" title="Superset" width="100px" src="https://raw.githubusercontent.com/apache/incubator-superset/master/superset-frontend/branding/superset-logo-horiz-apache.png" />][Apache SuperSet]
 [<img align="left" alt="mutract" title="mutract" width="30px" src="https://static.thenounproject.com/png/1718969-200.png" />][MuTract]
 
 <br />
