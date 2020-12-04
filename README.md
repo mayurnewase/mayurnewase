@@ -14,7 +14,6 @@
 
 ### Currently working on:
 [<img align="left" alt="superset" title="Superset" width="100px" src="https://raw.githubusercontent.com/apache/incubator-superset/master/superset-frontend/branding/superset-logo-horiz-apache.png" />][Apache SuperSet]
-[<img align="left" alt="mutract" title="mutract" width="30px" src="https://static.thenounproject.com/png/1718969-200.png" />][MuTract]
 
 <br />
 
@@ -54,7 +53,6 @@
 [react]: https://reactjs.org/
 [Wipadika]: https://wipadika.com/
 [Apache SuperSet]: https://github.com/apache/incubator-superset
-[MuTract]: https://www.mutract.com/
 [linkedin]: https://www.linkedin.com/in/mayur-newase
 [twitter]: https://twitter.com/MayurNewase
 [instagram]: https://www.instagram.com/mayur_newase
