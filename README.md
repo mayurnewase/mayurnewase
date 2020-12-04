@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently contributing to open source projects which helps model deployment easier.
-- 👯 My goal is to contribute more to open source projects.
+- 🔭 I’m currently contributing to open source projects for easier model deployements.
+- 👯 My goal is to contribute and maintain awesome libraries.
 - 💬 Ask me about machine learning model infrastructure and deployments.
 - 🌱 I’m currently learning drums
 
