@@ -14,6 +14,7 @@
 
 ### Currently contributing to:
 [<img align="left" alt="superset" title="Superset" width="100px" src="https://raw.githubusercontent.com/apache/incubator-superset/master/superset-frontend/branding/superset-logo-horiz-apache.png" />][Apache SuperSet]
+[<img align="left" alt="codeSTACKr | BentoML" width="100px" src="https://raw.githubusercontent.com/bentoml/BentoML/master/docs/source/_static/img/bentoml-readme-header.jpeg" />][BentoML]
 
 <br />
 
@@ -53,6 +54,7 @@
 [react]: https://reactjs.org/
 [Wipadika]: https://wipadika.com/
 [Apache SuperSet]: https://github.com/apache/incubator-superset
+[BentoML]: https://github.com/bentoml/BentoML
 [linkedin]: https://www.linkedin.com/in/mayur-newase
 [twitter]: https://twitter.com/MayurNewase
 [instagram]: https://www.instagram.com/mayur_newase
