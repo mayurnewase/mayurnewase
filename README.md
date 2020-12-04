@@ -12,7 +12,7 @@
 
 <br />
 
-### Currently working on:
+### Currently contributing to:
 [<img align="left" alt="superset" title="Superset" width="100px" src="https://raw.githubusercontent.com/apache/incubator-superset/master/superset-frontend/branding/superset-logo-horiz-apache.png" />][Apache SuperSet]
 
 <br />
