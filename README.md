@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently contributing to open source projects for easier model deployements.
-- 👯 My goal is to contribute and maintain awesome libraries.
-- 💬 Ask me about machine learning model infrastructure and deployments.
-- 🌱 I’m currently learning drums
+- 🔭 Keep calm and contribute...
+- 🌱 Drummer in progress.
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
