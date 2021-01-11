@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Keeps calm and contribute...
+### About me
+
+- 🔭 Keeps calm and contribute.
 - 🌱 Drummer in progress.
 
 ### Connect with me:
