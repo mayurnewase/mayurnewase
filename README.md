@@ -14,6 +14,7 @@
 
 ### Currently contributing to:
 [<img align="left" alt="superset" title="Superset" width="100px" src="https://raw.githubusercontent.com/apache/incubator-superset/master/superset-frontend/branding/superset-logo-horiz-apache.png" />][Apache SuperSet]
+[<img align="left" alt="code-server" title="Superset" width="100px" src="https://raw.githubusercontent.com/cdr/code-server/v3.8.0/doc/assets/screenshot.png" />][Code Server]
 [<img align="left" alt="codeSTACKr | BentoML" width="100px" src="https://raw.githubusercontent.com/bentoml/BentoML/master/docs/source/_static/img/bentoml-readme-header.jpeg" />][BentoML]
 
 <br />
