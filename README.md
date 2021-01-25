@@ -17,11 +17,6 @@
 
 <br />
 
-### Current Organisation:
-[<img align="left" alt="codeSTACKr | BentoML" width="100px" src="https://wipadika.com/wp-content/uploads/2020/08/Artboard-3@2x.png" />][Wipadika]
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="python" title="python" width="26px" src="https://img.icons8.com/nolan/64/python.png" />][python]
@@ -48,7 +43,6 @@
 [dynamodb]: https://aws.amazon.com/dynamodb
 [sql]: https://www.mysql.com/
 [react]: https://reactjs.org/
-[Wipadika]: https://wipadika.com/
 [Apache SuperSet]: https://github.com/apache/incubator-superset
 [Code Server]: https://github.com/cdr/code-server
 [BentoML]: https://github.com/bentoml/BentoML
