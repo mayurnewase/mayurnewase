@@ -52,4 +52,3 @@
 [Apache SuperSet]: https://github.com/apache/incubator-superset
 [Code Server]: https://github.com/cdr/code-server
 [BentoML]: https://github.com/bentoml/BentoML
-[instagram]: https://www.instagram.com/mayur_newase
