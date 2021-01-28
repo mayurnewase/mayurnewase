@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🔭 Keeps calm and contribute.
+- 🔭 Loves contributing.
 - 🌱 Drummer in progress.
 
 ### Connect with me:
