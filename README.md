@@ -19,7 +19,6 @@
 ### Languages and Tools:
 
 [<img align="left" alt="python" title="python" width="26px" src="https://img.icons8.com/nolan/64/python.png" />][python]
-[<img align="left" alt="rest api" title="rest apis" width="26px" src="https://img.icons8.com/wired/64/000000/api-settings.png" />][api]
 [<img align="left" alt="graphql" title="graphql" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png" />][graphql]
 [<img align="left" alt="aws" title="aws" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />][aws]
 [<img align="left" alt="dynamodb" title="dynamodb" width="26px" src="https://img.icons8.com/fluent/48/000000/database.png"/>][dynamodb]
@@ -36,7 +35,6 @@
 
 
 [python]: https://www.python.org/
-[api]: https://en.wikipedia.org/wiki/API
 [graphql]: https://graphql.org/
 [aws]: https://aws.amazon.com/
 [dynamodb]: https://aws.amazon.com/dynamodb
