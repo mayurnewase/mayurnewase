@@ -12,7 +12,6 @@
 
 ### Currently contributing to:
 [<img align="left" alt="superset" title="Superset" width="100px" src="https://raw.githubusercontent.com/apache/incubator-superset/master/superset-frontend/branding/superset-logo-horiz-apache.png" />][Apache SuperSet]
-[<img align="left" alt="code-server" title="Code Server" width="100px" height="20px" src="https://raw.githubusercontent.com/cdr/code-server/v3.8.0/doc/assets/screenshot.png" />][Code Server]
 
 <br />
 
@@ -41,5 +40,4 @@
 [sql]: https://www.mysql.com/
 [react]: https://reactjs.org/
 [Apache SuperSet]: https://github.com/apache/incubator-superset
-[Code Server]: https://github.com/cdr/code-server
 [linkedin]: https://www.linkedin.com/in/mayur-newase
