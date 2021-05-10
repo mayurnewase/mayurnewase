@@ -11,7 +11,7 @@
 <br />
 
 ### Currently contributing to:
-[<img align="left" alt="superset" title="Superset" width="100px" src="https://raw.githubusercontent.com/apache/incubator-superset/master/superset-frontend/branding/superset-logo-horiz-apache.png" />][Apache SuperSet]
+[<img align="left" alt="superset" title="Superset" width="100px" src="https://github.com/apache/superset/raw/master/superset-frontend/src/assets/branding/superset-logo-horiz-apache.png" />][Apache SuperSet]
 
 <br />
 
