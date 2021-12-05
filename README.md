@@ -18,7 +18,7 @@
 ### Languages, Tools, Clouds:
 
 [<img align="left" alt="python" title="python" width="26px" src="https://img.icons8.com/nolan/64/python.png" />][python]
-[<img align="left" alt="nodejs" title="nodejs" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>][nodejs]
+[<img align="left" alt="nodejs" title="nodejs" height="30px" width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>][nodejs]
 [<img align="left" alt="dynamodb" title="dynamodb" width="26px" src="https://img.icons8.com/fluent/48/000000/database.png"/>][dynamodb]
 [<img align="left" alt="sql" title="mysql" width="26px" src="https://img.icons8.com/dusk/64/000000/database.png"/>][sql]
 [<img align="left" alt="react" title="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
