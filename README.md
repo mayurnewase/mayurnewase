@@ -30,8 +30,6 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mayurnewase&show_icons=true&hide_border=true" />
-
 [nodejs]: https://nodejs.org/
 [python]: https://www.python.org/
 [graphql]: https://graphql.org/
