@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🔭 New-found love for open source contributions.
+- 🔭 Loves open source applications.
 - 🌱 Learning drums.
 
 ### Connect with me:
