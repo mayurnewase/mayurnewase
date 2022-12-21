@@ -5,16 +5,10 @@
 - 🔭 Loves open source applications.
 - 🌱 Learning drums.
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Currently contributing to:
 
 #### Haven't decided yet, but most probably one of Loki, Trino,or any db engine.
-
-<br />
 
 ### Languages, Databases, Clouds I use:
 
@@ -24,6 +18,12 @@
 [<img align="left" alt="sql" title="mysql" width="26px" src="https://img.icons8.com/dusk/64/000000/database.png"/>][sql]
 [<img align="left" alt="react" title="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="aws" title="aws" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />][aws]
+
+
+<br />
+
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
