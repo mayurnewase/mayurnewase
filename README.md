@@ -17,6 +17,7 @@
 [<img align="left" alt="dynamodb" title="dynamodb" width="26px" src="https://img.icons8.com/fluent/48/000000/database.png"/>][dynamodb]
 [<img align="left" alt="sql" title="mysql" width="26px" src="https://img.icons8.com/dusk/64/000000/database.png"/>][sql]
 [<img align="left" alt="react" title="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />][kubernetes]
 [<img align="left" alt="aws" title="aws" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />][aws]
 
 
@@ -40,3 +41,4 @@
 [react]: https://reactjs.org/
 [Apache SuperSet]: https://github.com/apache/incubator-superset
 [linkedin]: https://www.linkedin.com/in/mayur-newase
+[kubernetes]: https://kubernetes.io/
