@@ -11,7 +11,8 @@
 <br />
 
 ### Currently contributing to:
-[<img align="left" alt="superset" title="Superset" width="100px" src="https://github.com/apache/superset/raw/master/superset-frontend/src/assets/branding/superset-logo-horiz-apache.png" />][Apache SuperSet]
+
+#### Haven't decided yet, but most probably one of Loki, Trino,or any db engine.
 
 <br />
 
