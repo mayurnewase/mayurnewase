@@ -37,7 +37,7 @@
 [graphql]: https://graphql.org/
 [aws]: https://aws.amazon.com/
 [dynamodb]: https://aws.amazon.com/dynamodb
-[[pstgresql]: [https://www.mysql.com/](https://www.postgresql.org/)
+[postgresql]: https://www.postgresql.org/
 [react]: https://reactjs.org/
 [Apache SuperSet]: https://github.com/apache/incubator-superset
 [linkedin]: https://www.linkedin.com/in/mayur-newase
