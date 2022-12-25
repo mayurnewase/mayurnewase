@@ -8,7 +8,7 @@
 
 ### Currently contributing to:
 
-#### Haven't decided yet, but most probably one of Loki, Trino,or any db engine.
+- Currently studying Trino codebase.
 
 ### Languages, Databases, Clouds I use:
 
