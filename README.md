@@ -8,7 +8,7 @@
 
 ### Currently contributing to:
 
-- Currently studying Trino codebase.
+- Currently studying Pytorch codebase.
 
 ### Languages, Databases, Clouds I use:
 
